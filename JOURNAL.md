@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.8h | 2 |
+| Week 1 | Tier 1 | 1.33h | 2 |
 
 ## Contents
 
@@ -61,7 +61,7 @@ This is better to avoid collisions
 
 ### 2026-11-12: Time to route:
 
-**0.8h**
+**0.33h**
 
 Time to route:
 
